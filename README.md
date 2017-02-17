@@ -6,8 +6,11 @@ This tool  able to create a list of very strong words, but supports only the num
 #How-To
 ========
 cd Desktop 
+-----
 ls
+----
 chmod +x wlg.sh
+---------
 ./wlg.sh 
 --------
 #contact us
