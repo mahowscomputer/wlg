@@ -16,9 +16,15 @@ chmod +x wlg.sh
 #contact us
 ===========
 Email    :mostafaahmed1596@gmail.com
+------------------------------------
 Facebook :https://www.facebook.com/mahwoscomputer
+-------------------------------------------------
 Twitter  :https://twitter.com/mahowscomputer
+---------------------------------------------
 YouTube  :https://www.youtube.com/channel/UCMhGMRzb_gW1tPpssXdOtQg/videos
+-------------------------------------------------------------------------
 Instagram:https://www.instagram.com/mostafa.ahmed332
+----------------------------------------------------
 Github   :https://github.com/mahowscomputer
+---------------------------------------------
 Website  :http://mahwoscomputer.blogspot.com.eg
